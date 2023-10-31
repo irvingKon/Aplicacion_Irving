@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewIRVING", "DataGridViewIRVING.csproj", "{D965404D-2587-4918-8626-3F0255179808}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador", "instalador\instalador.vdproj", "{13AAF875-A3B4-4233-B0AB-7E02A16A3066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D965404D-2587-4918-8626-3F0255179808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D965404D-2587-4918-8626-3F0255179808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D965404D-2587-4918-8626-3F0255179808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D965404D-2587-4918-8626-3F0255179808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AAF875-A3B4-4233-B0AB-7E02A16A3066}.Debug|Any CPU.ActiveCfg = Debug
+		{13AAF875-A3B4-4233-B0AB-7E02A16A3066}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F97941-A37A-4F5E-B248-12452D845D4F}
+	EndGlobalSection
+EndGlobal
